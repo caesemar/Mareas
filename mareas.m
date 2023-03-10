@@ -1,4 +1,3 @@
-%ejercicio5
 %el programa no esta optimizado y lleva un tiempo.
 phi=20;
 gamma=9.7803.*(1+5.30244e-3.*sind(2*phi)-5.8e-6.*sind(2*phi));
